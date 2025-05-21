@@ -1,0 +1,2 @@
+[2025-05-20T13:50:29.890846] REGISTER> angel.iride założył konto.
+[2025-05-20T13:50:47.668326200] LOGIN> angel.iride się zalogował.
